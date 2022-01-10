@@ -39,6 +39,6 @@ class Question extends Model
             return "answered";
         endif;
 
-        return "unanswered";
+        return "unanswered";  //
     }
 }
